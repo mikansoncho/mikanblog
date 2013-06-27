@@ -1,0 +1,25 @@
+@charset "utf-8";
+/*
+Theme Name: Sunshine
+Theme URI: http://example.com/
+Description: サンプルテーマ
+Version: 1.0
+Author: Yourname
+Author URI: http://example.com/
+*/
+
+/* Reset.css入れるならここ */
+
+/* 以下ブログテーマのスタイル */
+#content {
+	float: left;
+	width: 700px;
+}
+
+#sidebar {
+	float: right;
+}
+
+#footer {
+	clear: both;
+}
